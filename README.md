@@ -1,2 +1,2 @@
-# taller-javascript
-Introducción a JavaScript a través de ejemplos
+# taller-javascript-node
+Introducción a JavaScript y Node.JS a través de ejemplos
